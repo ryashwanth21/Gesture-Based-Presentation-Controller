@@ -1,4 +1,3 @@
-Here’s the updated **`README.md`** without references to the `assets/` folder or demo files. You can copy-paste this directly into your repository.
 
 ---
 
@@ -87,5 +86,3 @@ pip install mediapipe opencv-python pyautogui
 This project is licensed under the MIT License.  
 
 ---
-
-Let me know if you need further changes!
